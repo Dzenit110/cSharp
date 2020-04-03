@@ -1,0 +1,6 @@
+C:\Users\yselim\source\repos\KosekoyUzemMetotlarRefOutAsiriYukleme\DiziRef\bin\Debug\DiziRef.exe.config
+C:\Users\yselim\source\repos\KosekoyUzemMetotlarRefOutAsiriYukleme\DiziRef\bin\Debug\DiziRef.exe
+C:\Users\yselim\source\repos\KosekoyUzemMetotlarRefOutAsiriYukleme\DiziRef\bin\Debug\DiziRef.pdb
+C:\Users\yselim\source\repos\KosekoyUzemMetotlarRefOutAsiriYukleme\DiziRef\obj\Debug\DiziRef.csproj.CoreCompileInputs.cache
+C:\Users\yselim\source\repos\KosekoyUzemMetotlarRefOutAsiriYukleme\DiziRef\obj\Debug\DiziRef.exe
+C:\Users\yselim\source\repos\KosekoyUzemMetotlarRefOutAsiriYukleme\DiziRef\obj\Debug\DiziRef.pdb
